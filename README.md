@@ -11,4 +11,4 @@ Communications Test Design, Inc.
 *11/2023 - Current***
 
 [GitHub Repo](https://github.com/Kiing-Phantom)
-[LinkedIn](assets/img/linkedin.png)(https://www.linkedin.com/in/richard-pack-5b8988121/)
+[LinkedIn](https://www.linkedin.com/in/richard-pack-5b8988121/)
